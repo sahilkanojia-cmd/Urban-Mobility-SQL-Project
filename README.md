@@ -47,7 +47,7 @@ The database contains **8 relational tables** and **126,284 total records**.
 
 The project uses an 8-table relational database with `Rides` acting as the central transactional table.
 
-![Urban Mobility ERD](ERD/urban_mobility.png)
+![Urban Mobility ERD](ERD/ERD-urban-mobility.png)
 
 ---
 
